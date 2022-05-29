@@ -1,0 +1,5 @@
+﻿  睡眠检测小工具.cpp
+D:\win32test\睡眠检测小工具\睡眠检测小工具.cpp(140,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\win32test\睡眠检测小工具\睡眠检测小工具.cpp(135,17): warning C4101: “hRadio1”: 未引用的局部变量
+D:\win32test\睡眠检测小工具\睡眠检测小工具.cpp(135,26): warning C4101: “hCheck1”: 未引用的局部变量
+  睡眠检测小工具.vcxproj -> D:\win32test\睡眠检测小工具\x64\Debug\睡眠检测小工具.exe
